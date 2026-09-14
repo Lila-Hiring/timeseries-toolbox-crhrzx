@@ -1,0 +1,12 @@
+[project]
+name = "timeseries-toolbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "pudb>=2025.1",
+    "torch>=2.7.0",
+    "tqdm>=4.67.1",
+]
